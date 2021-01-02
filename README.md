@@ -1,4 +1,4 @@
-# Expo Ethereum Token Balance Poc
+# Ethereum Token Balance Mobile App
 
 Simple React Native Expo App PoC for getting token balances from an Ethereum wallet address. For this PoC we are using the Kovan testnet, but it is easily changeable for another testnet or even the mainnet.
 
